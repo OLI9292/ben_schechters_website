@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito-Light'), url(https://web.archive.org/web/20160818070031im_/https://fonts.gstatic.com/s/nunito/v7/1TiHc9yag0wq3lDO9cw0vqCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito-Regular'), url(https://web.archive.org/web/20160818070031im_/https://fonts.gstatic.com/s/nunito/v7/kpI87QY2ce-mk2ZnKb-r0g.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 07:00:31 Aug 18, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:15:52 Aug 18, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 53.58 (3)
+  esindex: 0.006
+  captures_list: 80.678
+  CDXLines.iter: 21.553 (3)
+  PetaboxLoader3.datanode: 40.677 (4)
+  exclusion.robots: 0.226
+  exclusion.robots.policy: 0.208
+  RedisCDXSource: 1.641
+  PetaboxLoader3.resolve: 743.67
+  load_resource: 796.823
+*/

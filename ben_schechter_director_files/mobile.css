@@ -1,0 +1,86 @@
+
+a:hover, a:focus, h3 a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+
+
+@media screen and (max-width: 640px) {
+
+body {
+  text-align: center;
+}
+
+  #mw-panel, #mw-head, #mw-page-base
+   {  display: none;
+  }
+
+.mw-body {
+    margin-left: 0em !important;
+}
+
+.infobox
+{float: inherit !important;
+  margin: 0px auto !important;
+}
+
+.row {display: inline !important;
+}
+
+.container {
+  padding:0px  !important;
+}
+
+#footer {
+  margin-left: 0em !important;
+}
+
+}
+
+
+
+@media (min-width: 768px) {
+.container {
+        width: 400px;
+}
+}
+
+@media (min-width: 992px) {
+.container {
+        width: 500px;
+}
+}
+
+@media (min-width: 1200px){
+.container {
+    width: 830px;
+  }
+}
+
+.thumbinner {
+
+    min-height: 135px
+  }
+
+/*
+     FILE ARCHIVED ON 14:37:21 Aug 18, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:15:43 Aug 18, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 84.367 (3)
+  esindex: 0.042
+  captures_list: 101.197
+  CDXLines.iter: 12.223 (3)
+  PetaboxLoader3.datanode: 123.037 (4)
+  exclusion.robots: 0.267
+  exclusion.robots.policy: 0.25
+  RedisCDXSource: 0.851
+  PetaboxLoader3.resolve: 1104.5
+  load_resource: 1177.656
+*/
